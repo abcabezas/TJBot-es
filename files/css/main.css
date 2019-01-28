@@ -12,7 +12,7 @@ body {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-font-smoothing: subpixel-antialiased;
-  color: #51443C;
+  color: #143379;
   line-height: 25px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -25,7 +25,7 @@ h1 {
   font-size: 48px;
   font-weight: 900;
   font-family: 'Atma', cursive;
-  color: #63554F;
+  color: #143379;
   padding-bottom: 30px
 }
 
@@ -88,14 +88,14 @@ p {
 }
 
 .btn-border {
-  color: #51443c;
+  color: #143379;
   background-color: transparent;
-  border: 1px solid #51443c;
+  border: 1px solid #143379;
 }
 
 .btn-border:hover {
   color: #ffffff;
-  background-color: #51443c;
+  background-color: #143379;
 }
 
 .padding-item{
@@ -127,7 +127,7 @@ p {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-  color: #51443c;
+  color: #143379;
   font-weight: 100;
   padding: 0 15px;
   margin-top: 10px;
@@ -154,7 +154,7 @@ p {
   margin-left: -10px;
   width: 15px;
   height: 2px;
-  background: #857B72;
+  background: ##143379;
   -webkit-transform: scale3d(0, 1, 1);
   -moz-transform: scale3d(0, 1, 1);
   transform: scale3d(0, 1, 1);
@@ -190,12 +190,12 @@ p {
 /* YOUTUBE ICON STYLE - FONT AWSOME */
 .fab {
   font-size: 200%;
-  color: #51443c;
+  color: #143379;
 }
 
 .fab:hover {
   font-size: 200%;
-  color: #51443c;
+  color: #143379;
   transform: scale(1.2);
 }
 
@@ -236,7 +236,7 @@ p {
   padding-bottom: 40px;
   text-align: center;
   color: #ffffff;
-  background-color: #51443c;
+  background-color: #143379;
 
 }
 
@@ -244,7 +244,7 @@ p {
   padding-top: 80px;
   padding-bottom: 40px;
   text-align: center;
-  color: #51443c;
+  color: #143379;
   background-color: #e3d9d4;
 
 }
@@ -254,13 +254,13 @@ p {
   padding-bottom: 5px;
   text-align: center;
   color: #ffffff;
-  background-color: #51443c;
+  background-color: #143379;
 
 }
 
 .section-footer a{
   color: #c6b8ae;
-  background-color: #51443c;
+  background-color: #143379;
 
 }
 
@@ -301,7 +301,7 @@ p {
   font-weight: 700;
   font-family: 'Amatic SC', cursive;
   font-size: 30px;
-  color: #51443C;
+  color: #143379;
   letter-spacing: 1px;
   text-transform: uppercase;
   line-height: 22px;
@@ -335,7 +335,7 @@ p {
   font-family: 'Amatic SC', cursive;
   font-size: 30px;
   font-weight: 400;
-  color: #51443C;
+  color: #143379;
 }
 
 .co-umim .icon i {
@@ -357,13 +357,13 @@ p {
   font-family: 'Amatic SC', cursive;
   font-size: 36px;
   font-weight: 600;
-  color: #51443C;
+  color: #143379;
   border: 2px dashed #857b72;
   margin-top: 10px;
 }
 
 .hotove-programy h3 a{
-  color: #51443c;
+  color: #143379;
 }
 
 .hotove-programy h3 :hover{
@@ -373,7 +373,7 @@ p {
 /* SEKCE MOJE SOUPRAVA */
 
 .moje-souprava {
-  border: 2px dashed #51443C;
+  border: 2px dashed #143379;
   width: auto;
   height: 350px;
 }
@@ -437,7 +437,7 @@ p {
   height: auto;
   width: auto;
   opacity: 0;
-  background-color: #51443c;
+  background-color: #143379;
 }
 
 .arduinoshop:hover .overlay-box {
@@ -467,7 +467,7 @@ margin-right: auto;
   display: inline-block;
   width: 80%;
   border-radius: 50%;
-  border: 2px dashed #51443C;
+  border: 2px dashed #143379;
   }
 
 .kamarad h3,a{
@@ -475,7 +475,7 @@ margin-right: auto;
   font-weight: 700;
   margin-top: 15px;
   margin-bottom: 5px;
-  color: #51443C;
+  color: #143379;
 }
 
 .kamarad a:hover{
@@ -546,7 +546,7 @@ textarea {
 }
 
 .submit:hover {
-  background-color: #51443C;
+  background-color: #143379;
   color: #ffffff;
 }
 
@@ -554,11 +554,11 @@ textarea {
 
 .randevous a{
 text-transform: lowercase;
-color: #51443C;
+color: #143379;
 }
 
 .randevous a:hover{
-  color: #51443C;
+  color: #143379;
   font-size: 24px;
   }
 
@@ -584,7 +584,7 @@ color: #51443C;
   }
   .slicknav_nav .active a {
     background: #857B72;
-    color: #51443c;
+    color: #143379;
   }
   .slicknav_nav a:hover, .slicknav_nav .active {
     color: #857B72;
