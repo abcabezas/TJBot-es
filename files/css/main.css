@@ -142,7 +142,7 @@ p {
 }
 
 .nav-link:hover {
-  color: #857B72 !important;
+  color: #143379 !important;
 }
 
 /* MAKES LINE ABOVE SELECTED ITEM IN THE MENU */
@@ -206,11 +206,11 @@ p {
 }
 
 .slicknav_btn {
-  border-color: #857B72;
+  border-color: #143379;
 }
 
 .slicknav_menu .slicknav_icon-bar {
-  background: #857B72;
+  background: #143379;
 }
 
 .mobile-menu {
@@ -323,7 +323,7 @@ p {
 /* SEKCE CO UMÍM */
 .co-umim {
   background: #fff;
-  border: 2px dashed #857b72;
+  border: 2px dashed #143379;
   padding: 0px;
   text-align: center;
   padding-top: 20px;
@@ -424,7 +424,7 @@ p {
 
 .arduinoshop {
   width: auto;
-  height: 310px;
+  height: 270px;
 }
 
 .arduinoshop .overlay-box {
